@@ -1,7 +1,8 @@
 # spring-upload-sample
-## 框架：Spring Boot + MySQL + JQuery + Bootstrap Fileinput
+## 框架
+Spring Boot + MySQL + JQuery + Bootstrap Fileinput
 
-## 实现功能：
+## 实现功能
 学员上传自己的作业：
 com.fox.web.HomeworkController为控制器（url路径为/homework)
 homework/upload.html为主页面
