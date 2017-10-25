@@ -1,0 +1,9 @@
+#common properties，不需要根据不同环境修改的配置
+server:
+  port: 9997
+spring:
+  profiles:
+    active: dev
+  http:
+    multipart:
+      max-file-size: 5242880
